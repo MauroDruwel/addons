@@ -1,1 +1,1 @@
-# HeyTelecomHA-Addon
+# Add-on store :))
