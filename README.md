@@ -24,9 +24,9 @@ To add this repository to your Home Assistant instance and install add-ons, foll
 3. Click the three dots in the top right corner and select **Repositories**.
 4. Enter the following URL and click **Add**:
 
-		```
-		https://github.com/maurodruwel/addons
-		```
+```
+https://github.com/maurodruwel/addons
+```
 
 ### 2. Install an Add-on
 
